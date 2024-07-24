@@ -1,6 +1,7 @@
 # Examen2
 Examen Segundo Parcial Mateo Román, Jerly Reinoso
-# Despliegue
+# Despliegue Sistema de Predicción de Salarios
+
 Este proyecto implementa un sistema de predicción de salarios utilizando un modelo de SVM con kernel RBF. A continuación se proporcionan las instrucciones para ejecutar la aplicación.
 
 ## Requisitos previos
@@ -11,7 +12,7 @@ Este proyecto implementa un sistema de predicción de salarios utilizando un mod
 
 ### 1. Clonar el repositorio o descargar el archivo
 
-Descarga el archivo del proyecto y descomprímelo en tu sistema. Asegúrate de que todos los archivos necesarios, incluyendo `app.py`, `RománMateo_SVM_Examen2.ipynb`, `data_evaluacion_processed.csv`, y `models/pickle_model.pkl`, estén en el mismo directorio.
+Descarga el archivo del proyecto y descomprímelo en tu sistema. Asegúrate de que todos los archivos necesarios, incluyendo `app.py`, `svm_rbf_model.ipynb`, `svm_rbf_model.pkl`, y `scaler.pkl`, estén en el mismo directorio.
 
 ### 2. Crear y activar un entorno virtual con Anaconda
 
