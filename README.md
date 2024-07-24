@@ -1,2 +1,2 @@
 # Examen2
-Examen Segundo Parcial Mateo Román, Jerly Reinosos
+Examen Segundo Parcial Mateo Román, Jerly Reinoso
